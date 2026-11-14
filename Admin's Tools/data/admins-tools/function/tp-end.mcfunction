@@ -1,0 +1,1 @@
+execute in minecraft:the_end run tp 0 100 0

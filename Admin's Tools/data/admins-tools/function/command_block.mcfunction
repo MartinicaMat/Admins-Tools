@@ -1,0 +1,1 @@
+give minecraft:command_block

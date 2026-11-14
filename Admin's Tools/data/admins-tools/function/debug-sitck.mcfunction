@@ -1,0 +1,1 @@
+give minecraft:debug_stick
